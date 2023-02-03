@@ -1,0 +1,17 @@
+.inputOutline:focus {
+  outline: 0px !important;
+  box-shadow: none !important;
+}
+.inputOutline {
+  outline: 0px !important;
+  box-shadow: none !important;
+}
+
+.bgGradient-dark {
+  background: rgb(0, 0, 0);
+  background: linear-gradient(
+    0deg,
+    rgba(0, 0, 0, 0.87718837535014) 60%,
+    rgba(0, 212, 255, 0) 100%
+  );
+}
